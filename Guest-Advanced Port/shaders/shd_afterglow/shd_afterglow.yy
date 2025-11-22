@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_afterglow",
+  "name":"shd_afterglow",
+  "parent":{
+    "name":"shaders",
+    "path":"folders/shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

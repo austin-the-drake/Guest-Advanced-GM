@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_deconvergence",
+  "name":"shd_deconvergence",
+  "parent":{
+    "name":"shaders",
+    "path":"folders/shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
