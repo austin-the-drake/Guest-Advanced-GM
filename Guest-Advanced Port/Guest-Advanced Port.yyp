@@ -39,6 +39,7 @@
     {"id":{"name":"shd_ntsc_pass1","path":"shaders/shd_ntsc_pass1/shd_ntsc_pass1.yy",},},
     {"id":{"name":"shd_ntsc_pass2","path":"shaders/shd_ntsc_pass2/shd_ntsc_pass2.yy",},},
     {"id":{"name":"shd_ntsc_pass3","path":"shaders/shd_ntsc_pass3/shd_ntsc_pass3.yy",},},
+    {"id":{"name":"shd_passthrough","path":"shaders/shd_passthrough/shd_passthrough.yy",},},
     {"id":{"name":"shd_pre_shaders","path":"shaders/shd_pre_shaders/shd_pre_shaders.yy",},},
     {"id":{"name":"spr_inv_trinitron_lut","path":"sprites/spr_inv_trinitron_lut/spr_inv_trinitron_lut.yy",},},
     {"id":{"name":"spr_nec_lut","path":"sprites/spr_nec_lut/spr_nec_lut.yy",},},

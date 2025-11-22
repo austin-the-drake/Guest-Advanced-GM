@@ -111,7 +111,7 @@ params = {
     // --- Pass 5, 6, 7: NTSC ---
     cust_artifacting: 1.0, cust_fringing: 1.0,
     ntsc_sat: 1.0, ntsc_bright: 1.0,
-    ntsc_scale: 1.0, ntsc_fields: -1.0, ntsc_phase: 1.0,
+    ntsc_scale: 1.0, ntsc_fields: -1.0, ntsc_phase: 3.0,
     ntsc_gamma: 1.0, ntsc_rainbow1: 0.0, ntsc_taps: 32.0,
     ntsc_charp: 0.0, ntsc_charp3: 0.0, speedup: 1.0,
     ntsc_ring: 0.5, ntsc_cscale: 1.0, ntsc_cscale1: 1.0,
